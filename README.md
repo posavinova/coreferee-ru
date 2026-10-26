@@ -1,5 +1,10 @@
 # Сoreferee-ru
 
+[![Current Release Version](https://img.shields.io/github/release/posavinova/coreferee-ru.svg?style=flat-square&logo=github)](https://github.com/posavinova/coreferee-ru/releases)
+[![pypi Version](https://img.shields.io/pypi/v/coreferee-ru.svg?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/coreferee-ru/)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg?style=flat-square)](https://github.com/ambv/black)
+
+
 **Russian-language coreference resolution based on Coreferee and spaCy.**
 
 ------------------------------------------------------------------------
